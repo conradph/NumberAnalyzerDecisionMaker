@@ -70,7 +70,7 @@ namespace ConsoleApp1
 
                     else
                     {
-                        Console.WriteLine("Invalid Entry bad guy");
+                        Console.WriteLine("Invalid Entry");
                         secondAskAgain = true;
                     }
                 }
